@@ -1,0 +1,4 @@
+# HoloTestProject
+Unity+MRTKを使ったシンプルなHoloLensアプリです。
+起動すると画面上に空中にういたカプセルが表示されるのでGazeを合わせてAirTapするとカプセルが増えて重力で下に落ちます。
+SpatialMappingしていますので、ちゃんと床とか椅子とか机に合わせて積み重なるというMixed Realityってどゆうことなの？がシンプルに体験できます。
